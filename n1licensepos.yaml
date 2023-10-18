@@ -1,0 +1,7 @@
+project: n1licensepos
+version: 0.0.1
+apps:
+  - name: n1licensepos
+    lang: CXX
+    compile_options: ""
+    link_options: ""
