@@ -1,1 +1,0 @@
-cleos -u https://jungle4.cryptolions.io:443 push action n1licensepos setproduct '["productname", "1.0000 USDT", "niceoneusdtt", "simpleassets", 12345, 67890]' -p $TEST_ACCOUNT@active
